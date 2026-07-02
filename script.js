@@ -31,7 +31,7 @@ function updateSlider(sliderId) {
     if (!slider || !state) return;
 
     slider.style.transform =
-        translateX(-${state.current * 100}%);
+        `translateX(-${state.current * 100}%)`;
 
     // Mise à jour des points
     const dotsContainer =
