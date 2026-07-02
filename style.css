@@ -6,7 +6,7 @@
 }
 
 body{
-    background:#07142a;
+    background-image: url("fond.jpeg");
     color:white;
     padding-top:90px;
     min-height:100vh;
