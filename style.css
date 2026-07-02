@@ -7,6 +7,9 @@
 
 body{
     background-image: url("fond.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     color:white;
     padding-top:90px;
     min-height:100vh;
@@ -71,6 +74,7 @@ nav{
 
 body{
     padding-top:150px;
+    background-attachement: scroll;
 }
 
 }
